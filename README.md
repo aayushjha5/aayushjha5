@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushjha5
+- 👋 Hi, I’m Aayush Jha
 - 👀 I’m interested in Full Stack Developing
 - 🌱 I’m currently learning AEM Developing
 - 💞️ I’m looking to collaborate on AEM Developing Projects & AEM Authoring
