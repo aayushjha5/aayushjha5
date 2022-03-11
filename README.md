@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aayush Jha
 - 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning AEM Developing
-- 💞️ I’m looking to collaborate on AEM Developing Projects & AEM Authoring
-- 📫 How to reach me instagram.com/jha_aayush04/
+- 🌱 I’m currently working on Oracle EBS.
+- 💞️ I’m looking to collaborate on Front-end Projects.
+- 📫 How to reach me : instagram.com/jha_aayush04/
 
 <!---
 aayushjha5/aayushjha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
