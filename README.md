@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Jha
 - 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning Reactjs.
+- 🌱 I’m currently learning Reactjs and react native
 - 💞️ I’m looking to collaborate on Front-end Projects.
 - 📫 How to reach me : instagram.com/jha_aayush04/
 
