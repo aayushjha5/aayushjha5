@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Aayush Jha
-- 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning Reactjs and react native
-- 💞️ I’m looking to collaborate on Front-end Projects.
-- 📫 How to reach me : instagram.com/jha_aayush04/
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Aayush Jha</h1>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer at Infosys"</h3>
 
-<!---
-aayushjha5/aayushjha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushjha5&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjha5" /> </p>
