@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Aayush Jha</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Developer at Infosys"</h3>
 
-- I am cuurenly working in Infosys Limited, Bangalore
+- I am currently working in Infosys Limited, Bangalore
 - I am currently learning Reactjs along with Flutter.
 - How to reach me **aayushjha5@gmail.com**
 
