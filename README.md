@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushjha5" alt="aayushjha5" /></a> </p>
 
 - I am currently working in Infosys Limited, Bangalore
-- I am currently learning Reactjs along with Flutter.
+- I am currently learning Socket.io
 - How to reach me **aayushjha5@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
