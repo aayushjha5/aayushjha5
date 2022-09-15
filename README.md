@@ -1,5 +1,7 @@
-<h1 align="center">Hi I'm Aayush Jha</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer at Infosys"</h3>
+<h1 align="center">Hi 👋, I'm Aayush</h1>
+<h3 align="center">"A passionate fullstack developer from India"</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushjha5" alt="aayushjha5" /></a> </p>
 
 - I am currently working in Infosys Limited, Bangalore
 - I am currently learning Reactjs along with Flutter.
